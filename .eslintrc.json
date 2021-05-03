@@ -20,6 +20,7 @@
         "cypress/no-unnecessary-waiting": "warn",
         "cypress/assertion-before-screenshot": "warn",
         "cypress/no-force": "warn",
-        "cypress/no-async-tests": "warn"
+        "cypress/no-async-tests": "warn",
+        "no-unused-vars": "off"
     }
 }
